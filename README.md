@@ -5,3 +5,4 @@ Greetings and welcome to Springlings. This project contains small exercises to g
 - Consuming a RESTful Web Service : [Source code](https://github.com/youssame/springlings/tree/main/consuming-restful-ws) - [Guide](https://spring.io/guides/gs/consuming-rest/)
 - Building Java Projects with Maven : [Source code](https://github.com/youssame/springlings/tree/main/building-java-projects-maven) - [Guide](https://spring.io/guides/gs/maven/)
 - Accessing Relational Data using JDBC with Spring : [Source code](https://github.com/youssame/springlings/tree/main/access-relational-data-jdbc) - [Guide](https://spring.io/guides/gs/relational-data-access/)
+- Uploading Files : [Source code](https://github.com/youssame/springlings/tree/main/uploading-files) - [Guide](https://spring.io/guides/gs/uploading-files/)
