@@ -1,6 +1,7 @@
 package com.youssefameachaq.uploadingfiles.controllers;
 
 import com.youssefameachaq.uploadingfiles.exceptions.StorageFileNotFoundException;
+import com.youssefameachaq.uploadingfiles.services.FileSystemStorageService;
 import com.youssefameachaq.uploadingfiles.services.IStorageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
@@ -17,10 +18,10 @@ import java.io.IOException;
 @Controller
 public class FileUploadController {
 
-    private final IStorageService storageService;
+    private final FileSystemStorageService storageService;
 
     @Autowired
-    public FileUploadController(IStorageService storageService) {
+    public FileUploadController(FileSystemStorageService storageService) {
         this.storageService = storageService;
     }
 

@@ -1,13 +1,11 @@
 package com.youssefameachaq.uploadingfiles.services;
 
 import org.springframework.core.io.Resource;
-import org.springframework.stereotype.Component;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.nio.file.Path;
 import java.util.stream.Stream;
 
-@Component
 public interface IStorageService {
 
     void init();
