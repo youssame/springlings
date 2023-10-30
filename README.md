@@ -7,3 +7,4 @@ Greetings and welcome to Springlings. This project contains small exercises to g
 - Accessing Relational Data using JDBC with Spring : [Source code](https://github.com/youssame/springlings/tree/main/access-relational-data-jdbc) - [Guide](https://spring.io/guides/gs/relational-data-access/)
 - Uploading Files : [Source code](https://github.com/youssame/springlings/tree/main/uploading-files) - [Guide](https://spring.io/guides/gs/uploading-files/)
 - Messaging with Redis : [Source code](https://github.com/youssame/springlings/tree/main/messaging-redis) - [Guide](https://spring.io/guides/gs/messaging-redis/)
+- Messaging with RabbitMQ : [Source code](https://github.com/youssame/springlings/tree/main/messaging-rabbitmq) - [Guide](https://spring.io/guides/gs/messaging-rabbitmq/)
